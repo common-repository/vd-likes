@@ -1,0 +1,16 @@
+#vd_like{
+line-height:normal;
+width:auto;
+
+}
+.vd_like_link{
+text-decoration:none
+}
+.vd_downlike_link{
+text-decoration:none
+}
+#vd_like .disable {
+   pointer-events: none;
+   cursor: default;
+}
+
